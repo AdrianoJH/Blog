@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Post {
+    height: 690px;
+    background-color: #744f31;
+}
+
+#img-post {
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+#txt-post {
+    width: 300px;
+    margin-left: 800px;
+    font-size: 25px;
+    font-family: 'Fjalla One', sans-serif;
+    margin-bottom: 310px;
+    margin-top: -250px;
+    color: #FFFF;
+
+}
+
+.Post2 {
+    height: 700px;
+    background-color: #bba39b;
+}
+
+#img-post2 {
+  
+    width: 600px;
+    margin-top: 70px;
+    margin-left: 350px;
+}
+
+#txt-post2 {
+    width: 700px;
+    font-size: 25px;
+    font-family: 'Fjalla One', sans-serif;
+    margin-left: 350px;
+    margin-top: 100px;
+    line-height: 40px;
+
+}

@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Sobre {
+    display: flex;
+    height: 700px;
+    background-color:  #24201d;
+    margin-top: 698px;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+#txt-sobre {
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 380px;
+    font-size: 25px;
+    line-height: 40px;
+    color: #FFFF;
+}
+
+#txt-sobre2 {
+    width: 380px;
+    margin-top: 450px;
+    margin-left: -480px;
+    font-size: 25px;
+    line-height: 40px;
+    color: #FFFF;
+}

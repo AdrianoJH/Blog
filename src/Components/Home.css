@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Home {
+    display: flex;
+    background-color: #24201d;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#img-home {
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#title-home {
+    width: 280px;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 40px;
+    color: #e48900;
+    
+}
+
+#txt {
+    width: 350px;
+    margin-top: 250px;
+    margin-left: -275px;
+    color: #e48900;
+}
+
+#txt2 {
+    width: 350px;
+    margin-top: 320px;
+    margin-left: -350px;
+    color: #e48900;
+}
+
